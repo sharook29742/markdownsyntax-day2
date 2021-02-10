@@ -31,4 +31,16 @@ cv  bnjklm  nnm
 4. cicil
 5. mech
   
+`
+def fun()
+    -print("welcome to github- worhshop by apssdc")
+    ## code of function defination
+    
+    ...
+    ## function calling
+    `
+    fun()
+    `-
+    ## task
+ 
 
