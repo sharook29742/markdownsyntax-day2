@@ -22,12 +22,13 @@ cv  bnjklm  nnm
 >>>gfguyit
 >>>>hjgdftget
 ## ordered list
-1.ece
-2.cse
-3.eee
-  1.eeeA
-  2.eeeb
-  4.cicil
-  5.mech
+
+1. ece
+2. cse
+3. eee
+    1. eeeA
+    2. eeeb
+4. cicil
+5. mech
   
 
